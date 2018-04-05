@@ -11,3 +11,28 @@
 #answer-display:hover {
   color: #fff;
 }
+
+#question-display {
+  color : white;
+}
+
+body{
+  background-image:  url("Ep7DM.gif");
+}
+
+h1{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+h3{
+  color: white;
+  font-size: 50px;
+}
+
+a:hover{
+  color:green;
+}
